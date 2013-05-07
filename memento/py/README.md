@@ -1,4 +1,4 @@
-Memento
+Memento em Python
 =======================================
 
 Este diretório contém exemplos usados no grupo de estudos sobre Design Patterns em Linguagens Dinamicas do Garoa Hacker Clube.
